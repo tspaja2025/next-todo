@@ -2,6 +2,7 @@
   "name": "next-todo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tspaja2025.github.io/next-todo",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
